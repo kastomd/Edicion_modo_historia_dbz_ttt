@@ -1,4 +1,6 @@
-﻿00      Goku base
+ID de personajes chibis se edita en el archivo 3
+
+00      Goku base
 01      Goku SSJ1
 02	Goku SSJ2
 03      Goku SSJ3
