@@ -6,7 +6,7 @@ Este repositorio esta creado unicamente con el proposito dr compartir conocimien
 
 
 Creditos por contribucion de datos:
-Modder Alberto
-Tristán Muñoz
-Kasto Modder
+Modder Alberto,
+Tristán Muñoz,
+Kasto Modder,
 Los ijueg30s
