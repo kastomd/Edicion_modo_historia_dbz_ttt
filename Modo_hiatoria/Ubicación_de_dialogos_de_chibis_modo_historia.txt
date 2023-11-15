@@ -1,6 +1,6 @@
-13934-366Epck1-{3f.bin}:(en el offset EF0-en iso multi-idioma{AMERICANA}) titulos del modo historia.
+13934-366Epck1-{3f.bin}:(en el offset EF0-en iso multi-idioma{AMERICANA}): titulos del modo historia en el menu del MH.
 
-DIALOGOS DEL MODO HISTORIA:
+DIALOGOS DEL MODO HISTORIA en el mini mapa:
 13802-35EA: guerrero desconocido de otro planeta
 13803-35EB: gohan y rey demonio piccolo
 13804-35EC: llegan los saiyans
