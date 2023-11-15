@@ -1,4 +1,5 @@
-﻿Valores del roster del dialogo personaje
+﻿Valores del hud del dialogo personaje se edita en el archivo 1
+
 4B 35 	Goku
 4C 35	Goku Ssj
 4D 35 	Goku Ssj 2
