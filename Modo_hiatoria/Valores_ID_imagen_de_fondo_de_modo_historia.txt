@@ -1,4 +1,5 @@
-Valores imagen de fondo de modo historia
+Valores imagen de fondo de modo historia se edita en el archivo 1
+
 ID--Archivo
 A0 36--36A1
 A1 36--36A2
