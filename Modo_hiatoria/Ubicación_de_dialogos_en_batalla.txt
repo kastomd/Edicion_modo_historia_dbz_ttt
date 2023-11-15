@@ -1,14 +1,16 @@
+Solo afecta los dialogos en batalla al parecer
+
 1256-04E8: guerrero desconocido de otro planeta
 1257-04E9: gohan y rey demonio piccolo
 1258-04EA: llegan los saiyans
 1259-04EB: batalla decisiva definitiva
 1260-04EC: nubarones sobre el planeto namek
 1261-04ED: vegeta y zarbon
-1262-04EE:¡queda poc...... a por las bolas dragon
+1262-04EE:Â¡queda poc...... a por las bolas dragon
 1263-04EF: la terrorifica fuerza ginyu
 1264-04F0: aparece el capitan ginyu
 1265-04F1: freezer enfurecido
-1266-04F2: ¡la supertransformacion de freezer!
+1266-04F2: Â¡la supertransformacion de freezer!
 1267-04F3: freezer monstruoso
 1268-04F4: comienza la batalla decisiva!
 1269-04F5: solo en la batalla final
@@ -17,15 +19,15 @@
 1272-04F8: el despertar de #17 y #18
 1273-04F9: los androides invencibles
 1274-04FA: por fin aparece el mounstruo misterioso!
-1275-04FB: ¡deten la forma perfecto de celula!
+1275-04FB: Â¡deten la forma perfecto de celula!
 1276-04FC: el orgullo de vegeta ayuda a celula
 1277-04FD: comienzan los juegos de celula
-1278-04FE: ¡gohan desencadenado!
+1278-04FE: Â¡gohan desencadenado!
 1279-04FF: una intensa batalla superferoz
 1280-0500: el inminente torneo mundial
 1281-0501: maldad encontrada
 1282-0502: adios al orgulloso guerrero
-1283-0503: ¡el limito absoluto super saiyan 3!
-1284-0504: ¿¿aparece un salvador??
+1283-0503: Â¡el limito absoluto super saiyan 3!
+1284-0504: Â¿Â¿aparece un salvador??
 1285-0505: el terrorifico monstruo bu
 1286-0506: batalla para salvar al universo
