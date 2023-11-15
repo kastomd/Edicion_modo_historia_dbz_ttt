@@ -1,0 +1,12 @@
+Valores imagen de fondo de modo historia
+ID--Archivo
+A0 36--36A1
+A1 36--36A2
+A2 36--36A3
+A3 36--36A4
+A4 36--36A5
+A5 36--36A6
+A6 36--36A7
+A7 36--36A8
+A8 36--36A9
+A9 36--36AA
