@@ -3,4 +3,4 @@ App --- Version Net Core
 Editor indice v3.5 --- netcore 3.1
 EditorTTT v4 --- netcore 3.1
 Extractor tool v1 --- netcore 3.1
-Editor indice v4.5 --- netcore 8
+Editor indice v4.5 --- netcore 8 (version con limites de tamaños en archivos y errores al extraer en iso JAP)
