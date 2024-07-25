@@ -9,4 +9,5 @@ Creditos por contribucion de datos:
 Modder Alberto,
 Tristán Muñoz,
 Kasto Modder,
-Los ijueg30s
+Los ijueg30s,
+Zero devs
