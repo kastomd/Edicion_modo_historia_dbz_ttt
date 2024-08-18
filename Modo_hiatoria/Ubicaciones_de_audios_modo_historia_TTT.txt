@@ -13,7 +13,7 @@
 2954:comienza la batalla decisiva!
 3081: solo en la batalla final
 3115: joven del futuro
-00013322-0000340A:reunion de guerreros
+00003181-00000C6D:reunion de guerreros
 00013325-0000340D:el despertar de #17 y #18
 00013328-00003410:los androides invencibles
 00013331-00003413: por fin aparece el mounstruo misterioso!
