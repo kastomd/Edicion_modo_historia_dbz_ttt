@@ -1,19 +1,19 @@
-1778: guerrero desconocido de otro planeta
-1951: gohan y rey demonio piccolo
-2020: llegan los saiyans
-2132: batalla decisiva definitiva
-2215: nubarones sobre el planeto namek
-2349:vegeta y zarbon
-2438: ¡queda poc...... a por las bolas dragon
-2571: la terrorifica fuerza ginyu
-2673: aparece el capitan ginyu
-2802: freezer enfurecido
-2851:¡la supertransformacion de freezer!
-2905: freezer monstruoso
-2954:comienza la batalla decisiva!
-3081: solo en la batalla final
-3115: joven del futuro
-00003181-00000C6D:reunion de guerreros
+1778-6F2: guerrero desconocido de otro planeta
+1951-79F: gohan y rey demonio piccolo
+2020-7E4: llegan los saiyans
+2132-854: batalla decisiva definitiva
+2215-8A7: nubarones sobre el planeto namek
+2349-92D:vegeta y zarbon
+2438-986: ¡queda poc...... a por las bolas dragon
+2571-A0B: la terrorifica fuerza ginyu
+2673-A71: aparece el capitan ginyu
+2802-AF2: freezer enfurecido
+2851-B23:¡la supertransformacion de freezer!
+2905-B59: freezer monstruoso
+2954-B8A:comienza la batalla decisiva!
+3081-C09: solo en la batalla final
+3115-C2B: joven del futuro
+3181-C6D:reunion de guerreros
 00013325-0000340D:el despertar de #17 y #18
 00013328-00003410:los androides invencibles
 00013331-00003413: por fin aparece el mounstruo misterioso!
@@ -25,7 +25,7 @@
 00013349-00003425:el inminente torneo mundial
 00013352-00003428:maldad encontrada
 00013355-0000342B:adios al orgulloso guerrero
-4075:¡el limito absoluto super saiyan 3!
-4130:¿¿aparece un salvador??
-4236:el terrorifico monstruo bu
-4291:batalla para salvar al universo
+4075-FEB:¡el limito absoluto super saiyan 3!
+4130-1022:¿¿aparece un salvador??
+4236-108C:el terrorifico monstruo bu
+4291-10C3:batalla para salvar al universo
