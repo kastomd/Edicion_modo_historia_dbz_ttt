@@ -20,11 +20,11 @@
 00013334-00003416:¡deten la forma perfecto de celula!
 00013337-00003419:el orgullo de vegeta ayuda a celula
 00013340-0000341C:comienzan los juegos de celula
-00013343-0000341F:¡gohan desencadenado!
-00013346-00003422:una intensa batalla superferoz
-00013349-00003425:el inminente torneo mundial
-00013352-00003428:maldad encontrada
-00013355-0000342B:adios al orgulloso guerrero
+3692-E6C:¡gohan desencadenado!
+3795-ED3:una intensa batalla superferoz
+3838-EFE:el inminente torneo mundial
+3913-F49:maldad encontrada
+3984-F90:adios al orgulloso guerrero
 4075-FEB:¡el limito absoluto super saiyan 3!
 4130-1022:¿¿aparece un salvador??
 4236-108C:el terrorifico monstruo bu
