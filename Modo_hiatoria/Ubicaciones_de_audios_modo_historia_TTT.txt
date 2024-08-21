@@ -15,11 +15,11 @@
 3115-C2B: joven del futuro
 3181-C6D:reunion de guerreros
 00013325-0000340D:el despertar de #17 y #18
-00013328-00003410:los androides invencibles
-00013331-00003413: por fin aparece el mounstruo misterioso!
+3279-CCF:los androides invencibles
+3357-D1D: por fin aparece el mounstruo misterioso!
 00013334-00003416:¡deten la forma perfecto de celula!
-00013337-00003419:el orgullo de vegeta ayuda a celula
-00013340-0000341C:comienzan los juegos de celula
+3490-DA2:el orgullo de vegeta ayuda a celula
+3599-E0F:comienzan los juegos de celula
 3692-E6C:¡gohan desencadenado!
 3795-ED3:una intensa batalla superferoz
 3838-EFE:el inminente torneo mundial
