@@ -10,4 +10,5 @@ Modder Alberto,
 Tristán Muñoz,
 Kasto Modder,
 Los ijueg30s,
-Zero devs
+Zero devs,
+Android zero
