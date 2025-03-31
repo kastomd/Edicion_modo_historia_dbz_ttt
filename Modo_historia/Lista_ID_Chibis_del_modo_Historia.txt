@@ -1,0 +1,87 @@
+ID de personajes chibis se edita en el archivo 3
+
+00      Goku base
+01      Goku SSJ1
+02	Goku SSJ2
+03      Goku SSJ3
+04      Gohan niño
+05	Joven gohan base
+06	Joven gohan SS1
+07	Joven gohan SS2
+08	Gohan adulto base
+09	Gohan adulto SS1
+0A	Gohan adulto SS2
+0B	Gohan definitivo
+0C	Picoro
+0D	Krillin
+0E	Yamcha
+0F	Tenshinhan
+10	Chaoz
+11	Vegeta Explorador
+12-46	Vegeta Base
+13-47	Vegeta SS1
+14	Vegeta SS2
+15	Majin Vegeta
+16	Trunks Espada Base
+17	Trunks Espada SS1
+18	Trunks Joven Luchador Base
+19	Trunks Joven Luchador SS1
+1A	Trunks niño base
+1B	Trunks niño SS1
+1C	Goten base
+1D	Goten SS1
+1E	Gotenks SS1
+1F	Gotenks SS3
+20	Vegetto SS1
+21	Gogetta SS1
+22	Videl
+23	Bardock
+24	Raditz
+25-48-49-4A	Saibaiman
+26	Nappa
+27	Zarbon
+28	Zarbon Transformado
+29	Dodoria
+2A	Cui
+2B	Capitan Ginyu
+2C	Recome
+2D	Burter
+2E	Jeice
+2F	Guldo
+30	Frezzer 1era forma
+31	Frezzer 2da forma
+32	Frezzer 3era forma 
+33	Frezzer forma final
+34	Frezzer forma final 100%
+35-51-52-53-54	Soldado de frezzer
+36	A16
+37	A17
+38	A18
+39	A19
+3A	Dr Gero
+3B	Cell imperfecto
+3C	Cell semi perfecto
+3D	Cell perfecto
+3E	Cell super perfecto
+3F-4E-4F-50	Cell jr
+40	Dabura
+41	Majin Boo
+42	Super Boo
+43	Super Boo Gohan
+44	Pequeño Boo
+45	Broly SSL
+
+Chibis no jugables
+
+55      Kaioshin
+57      Mr. Satan
+58      Bulma
+5C      Dendé (?)
+64      Namekusei 1
+65      Namekusei 2
+75      Esfera del dragon
+76      Esfera del dragon
+77      Esfera del dragon
+78      Esfera del dragon
+79      Esfera del dragon
+7C      Nave Saiyajin
