@@ -6,11 +6,11 @@ Este repositorio esta creado unicamente con el proposito de compartir conocimien
 
 
 Creditos por contribucion de datos:
-1.Modder Alberto,
-2.Tristán Muñoz,
-3.Kasto Modder,
-4.Los ijueg30s,
-5.Zero devs,
-6.Android zero
+Modder Alberto,
+Tristán Muñoz,
+Kasto Modder,
+Los ijueg30s,
+Zero devs,
+Android zero
 
 Si te interasa echa un ojo a la [wiki](https://github.com/kastomd/Edicion_modo_historia_dbz_ttt/wiki)
