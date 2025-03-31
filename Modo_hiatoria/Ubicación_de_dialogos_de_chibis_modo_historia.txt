@@ -2,34 +2,34 @@
 
 DIALOGOS DEL MODO HISTORIA en el mini mapa(no en combate):
 
-13802-35EA: guerrero desconocido de otro planeta
-13803-35EB: gohan y rey demonio piccolo
-13804-35EC: llegan los saiyans
-13805-35ED: batalla decisiva definitiva
-13806-35EE: nubarones sobre el planeto namek
-13807-35EF: vegeta y zarbon
-13808-35F0:¡queda poc...... a por las bolas dragon
-13809-35F1: la terrorifica fuerza ginyu
-13810-35F2: aparece el capitan ginyu
-13811-35F3: freezer enfurecido
-13812-35F4: ¡la supertransformacion de freezer!
-13813-35F5: freezer monstruoso
-13814-35F6: comienza la batalla decisiva!
-13815-35F7: solo en la batalla final
-13816-35F8: joven del futuro
-13817-35F9: reunion de guerreros
-13818-35FA: el despertar de #17 y #18
-13819-35FB: los androides invencibles
-13820-35FC: por fin aparece el mounstruo misterioso!
-13821-35FD: ¡deten la forma perfecto de celula!
-13822-35FE: el orgullo de vegeta ayuda a celula
-13823-35FF: comienzan los juegos de celula
-13824-3600: ¡gohan desencadenado!
-13825-3601: una intensa batalla superferoz
-13826-3602: el inminente torneo mundial
-13827-3603: maldad encontrada
-13828-3604: adios al orgulloso guerrero
-13829-3605: ¡el limito absoluto super saiyan 3!
-13830-3606: ¿¿aparece un salvador??
-13831-3607: el terrorifico monstruo bu
-13832-3608: batalla para salvar al universo
+13802-35EA: 1.guerrero desconocido de otro planeta
+13803-35EB: 2.gohan y rey demonio piccolo
+13804-35EC: 3.llegan los saiyans
+13805-35ED: 4.batalla decisiva definitiva
+13806-35EE: 5.nubarones sobre el planeto namek
+13807-35EF: 6.vegeta y zarbon
+13808-35F0: 7.¡queda poc...... a por las bolas dragon
+13809-35F1: 8.la terrorifica fuerza ginyu
+13810-35F2: 9.aparece el capitan ginyu
+13811-35F3: 10.freezer enfurecido
+13812-35F4: 11.¡la supertransformacion de freezer!
+13813-35F5: 12.freezer monstruoso
+13814-35F6: 13.comienza la batalla decisiva!
+13815-35F7: 14.solo en la batalla final
+13816-35F8: 15.joven del futuro
+13817-35F9: 16.reunion de guerreros
+13818-35FA: 17.el despertar de #17 y #18
+13819-35FB: 18.los androides invencibles
+13820-35FC: 19.por fin aparece el mounstruo misterioso!
+13821-35FD: 20.¡deten la forma perfecto de celula!
+13822-35FE: 21.el orgullo de vegeta ayuda a celula
+13823-35FF: 22.comienzan los juegos de celula
+13824-3600: 23.¡gohan desencadenado!
+13825-3601: 24.una intensa batalla superferoz
+13826-3602: 25.el inminente torneo mundial
+13827-3603: 26.maldad encontrada
+13828-3604: 27.adios al orgulloso guerrero
+13829-3605: 28.¡el limito absoluto super saiyan 3!
+13830-3606: 29.¿¿aparece un salvador??
+13831-3607: 30.el terrorifico monstruo bu
+13832-3608: 31.batalla para salvar al universo
