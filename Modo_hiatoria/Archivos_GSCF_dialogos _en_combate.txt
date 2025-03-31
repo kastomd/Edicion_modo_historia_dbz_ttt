@@ -1,13 +1,13 @@
 info obtenida de los mismos archivos BBQ, puede ser erronea:
 
-guerrero desconocido de otro planeta
+1.guerrero desconocido de otro planeta
   -0x345C
   -0x345D
 
-gohan y rey demonio piccolo
+2.gohan y rey demonio piccolo
   -0x345E
 
-llegan los saiyans
+3.llegan los saiyans
   -0x345F
   -0x3460
   -0x3461
@@ -20,7 +20,7 @@ llegan los saiyans
   -0x3468
   -0x3469
 
-batalla decisiva definitiva
+4.batalla decisiva definitiva
   -0x346A
   -0x346B
   -0x346C
@@ -29,17 +29,17 @@ batalla decisiva definitiva
   -0x346F
   -0x3470
 
-nubarones sobre el planeto namek
+5.nubarones sobre el planeto namek
   -0x3471
   -0x3472
   -0x3473
   -0x3474
 
-vegeta y zarbon
+6.vegeta y zarbon
   -0x3475
   -0x3476
 
-¡queda poc...... a por las bolas dragon
+7.¡queda poc...... a por las bolas dragon
   -0x3477
   -0x3478
   -0x3479
@@ -51,7 +51,7 @@ vegeta y zarbon
   -0x347F
   -0x3480
 
-la terrorifica fuerza ginyu
+8.la terrorifica fuerza ginyu
   -0x3481
   -0x3482
   -0x3483
@@ -89,17 +89,17 @@ la terrorifica fuerza ginyu
   -0x34A3
   -0x34A4
 
-aparece el capitan ginyu
+9.aparece el capitan ginyu
   -0x34A5
   -0x34A6
   -0x34A7
   -0x34A8
 
-freezer enfurecido
+10.freezer enfurecido
   -0x34A9
   -0x34AA
 
-¡la supertransformacion de freezer!
+11.¡la supertransformacion de freezer!
   -0x34AB
   -0x34AC
   -0x34AD
@@ -109,12 +109,12 @@ freezer enfurecido
   -0x34B1
   -0x34B2
 
-freezer monstruoso
+12.freezer monstruoso
   -0x34B3
   -0x34B4
   -0x34B5
 
-comienza la batalla decisiva!
+13.comienza la batalla decisiva!
   -0x34B6
   -0x34B7
   -0x34BA
@@ -123,14 +123,14 @@ comienza la batalla decisiva!
   -0x34B9
   -0x34BC
 
-solo en la batalla final
+14.solo en la batalla final
   -0x34BD
   -0x34BE
 
-joven del futuro
+15.joven del futuro
   -no existe cargas de archivos gcsf
 
-reunion de guerreros
+16.reunion de guerreros
   -0x34BF
   -0x34C0
   -0x34C1
@@ -145,7 +145,7 @@ reunion de guerreros
   -0x34CA
   -0x34CB
 
-el despertar de #17 y #18
+17.el despertar de #17 y #18
   -0x34CC
   -0x34CD
   -0x34CE
@@ -155,11 +155,11 @@ el despertar de #17 y #18
   -0x34D2
   -0x34D3
 
-los androides invencibles
+18.los androides invencibles
   -0x34D4
   -0x34D5
 
-por fin aparece el mounstruo misterioso!
+19.por fin aparece el mounstruo misterioso!
   -0x34D6
   -0x34D7
   -0x34D8
@@ -170,55 +170,55 @@ por fin aparece el mounstruo misterioso!
   -0x34DD
   -0x34DE
 
-¡deten la forma perfecto de celula!
+20.¡deten la forma perfecto de celula!
   -0x34DF
   -0x34E0
 
-el orgullo de vegeta ayuda a celula
+21.el orgullo de vegeta ayuda a celula
   -0x34E1
   -0x34E2
   -0x34E3
   -0x34E4
   -0x34E5
 
-comienzan los juegos de celula
+22.comienzan los juegos de celula
   -0x34E6
   -0x34E7
 
-gohan desencadenado!
+23.gohan desencadenado!
   -0x34E8
   -0x34E9
 
-una intensa batalla superferoz
+24.una intensa batalla superferoz
   -0x34EA
   -0x34EB
   -0x34EC
 
-el inminente torneo mundial
+25.el inminente torneo mundial
   -0x34ED
 
-maldad encontrada
+26.maldad encontrada
   -0x34EE
   -0x34EF
   -0x34F0
 
-adios al orgulloso guerrero
+27.adios al orgulloso guerrero
   -0x34F1
   -0x34F2
   -0x34F3
 
-¡el limito absoluto super saiyan 3!
+28.¡el limito absoluto super saiyan 3!
   -0x34F4
 
-¿¿aparece un salvador??
+29.¿¿aparece un salvador??
   -0x34F5
   -0x34F6
   -0x34F7
 
-el terrorifico monstruo bu
+30.el terrorifico monstruo bu
   -0x34F8
 
-batalla para salvar al universo
+31.batalla para salvar al universo
   -0x34F9
   -0x34FA
   -0x34FB
