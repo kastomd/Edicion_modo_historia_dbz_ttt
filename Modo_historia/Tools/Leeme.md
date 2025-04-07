@@ -1,7 +1,9 @@
 Nombre App --- Version Net Core (se descarga en la pagina de Microsoft)
 
 Extractor tool v1 --- [netcore_3.1](https://dotnet.microsoft.com/es-es/download/dotnet/3.1)
+
 Editor indice v4.6 --- [netcore 8](https://dotnet.microsoft.com/es-es/download/dotnet/8.0) (correccion de limites de tamaños en archivos y correccion de errores al extraer en iso JAP)
+
 EditorDePersonajesMH_Debug_Test --- [netcore 8](https://dotnet.microsoft.com/es-es/download/dotnet/8.0)
 
 
