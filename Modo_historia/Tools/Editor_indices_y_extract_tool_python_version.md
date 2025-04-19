@@ -1,4 +1,4 @@
-Descargalo [aqui](https://github.com/kastomd/Editor_indice_Py)
+Descargalo [aqui](https://github.com/kastomd/Editor_indice_Py/releases)
 
 Esta version al estar echa en python es compatible con winlator para android,
 
