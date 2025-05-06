@@ -1,3 +1,5 @@
+Para el uso de los programas instalar el netcore correspondiente.
+
 Nombre App --- Version Net Core (se descarga en la pagina de Microsoft)
 
 Extractor tool v1 --- [netcore_3.1](https://dotnet.microsoft.com/es-es/download/dotnet/3.1)
