@@ -13,4 +13,10 @@ Los ijueg30s,
 Zero devs,
 Android zero
 
+##Dowlnoads
+Try the app dedicated to editing the story mode
+
+[![GitHub All Releases](https://img.shields.io/github/v/release/kastomd/Edicion_modo_historia_dbz_ttt?style=for-the-badge)](https://github.com/kastomd/Edicion_modo_historia_dbz_ttt/releases/latest)
+
+
 Si te interasa echa un ojo a la [wiki](https://github.com/kastomd/Edicion_modo_historia_dbz_ttt/wiki)
