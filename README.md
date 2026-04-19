@@ -15,7 +15,7 @@ Android zero
 
 ## Dowlnoads
 
-Try the app dedicated to editing the story mode
+Try the app dedicated to editing the story mode, JSON files obtained with the #GU by Zero Devs must be encoded in UTF-8.
 
 [![GitHub All Releases](https://img.shields.io/github/v/release/kastomd/Edicion_modo_historia_dbz_ttt?style=for-the-badge)](https://github.com/kastomd/Edicion_modo_historia_dbz_ttt/releases/latest)
 
